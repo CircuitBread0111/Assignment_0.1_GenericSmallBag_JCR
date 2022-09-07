@@ -1,5 +1,13 @@
-
+/**
+ * 
+ * @author jerrin
+ *
+ */
 public class Application{
+	/**
+	 * Main method
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		Item<String> str = new Item<String>();
 		str.setE("Jerrin Redmon");
